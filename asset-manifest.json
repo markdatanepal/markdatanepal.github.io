@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/markdata/static/css/main.9c6b5dd8.chunk.css",
+    "main.js": "/markdata/static/js/main.e96633a5.chunk.js",
+    "main.js.map": "/markdata/static/js/main.e96633a5.chunk.js.map",
+    "runtime-main.js": "/markdata/static/js/runtime-main.298c6bad.js",
+    "runtime-main.js.map": "/markdata/static/js/runtime-main.298c6bad.js.map",
+    "static/js/2.107485a5.chunk.js": "/markdata/static/js/2.107485a5.chunk.js",
+    "static/js/2.107485a5.chunk.js.map": "/markdata/static/js/2.107485a5.chunk.js.map",
+    "index.html": "/markdata/index.html",
+    "precache-manifest.4a2a86d3e6d3d6c138d86c49c80a6ada.js": "/markdata/precache-manifest.4a2a86d3e6d3d6c138d86c49c80a6ada.js",
+    "service-worker.js": "/markdata/service-worker.js",
+    "static/css/main.9c6b5dd8.chunk.css.map": "/markdata/static/css/main.9c6b5dd8.chunk.css.map",
+    "static/js/2.107485a5.chunk.js.LICENSE.txt": "/markdata/static/js/2.107485a5.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/markdata/static/media/1.c6f5c4c5.jpg",
+    "static/media/fonts.css": "/markdata/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/facebook.50f13391.svg": "/markdata/static/media/facebook.50f13391.svg",
+    "static/media/github.baf48a32.svg": "/markdata/static/media/github.baf48a32.svg",
+    "static/media/twitter.a50716dd.svg": "/markdata/static/media/twitter.a50716dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.298c6bad.js",
+    "static/js/2.107485a5.chunk.js",
+    "static/css/main.9c6b5dd8.chunk.css",
+    "static/js/main.e96633a5.chunk.js"
+  ]
+}
